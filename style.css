@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+    font: "Brush Script MT" sans-serif;
+    color: rgb(40 30 60);
+}
+
+body {
+    background-color: bisque;
+    padding: 8px auto;
+}
+
+img.images {
+    margin: 0 auto;
+}
+
+ul.lists, ol.lists{
+    background-color: rgb(109, 107, 107, 0.3);
+    padding: 5px;
+    border: 2px solid black;
+    margin: 8px 16px;
+}
